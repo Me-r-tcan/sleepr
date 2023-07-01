@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.format.enable": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "prettier.jsxSingleQuote": true,
+  "auto-rename-tag.activationOnLanguage": ["javascript"],
+  "prettier.endOfLine": "auto",
+  "files.eol": "\n",
+  "debug.javascript.terminalOptions": {
+    "skipFiles": ["<node_internals>/**"]
+  },
+  "typescript.preferences.importModuleSpecifier": "relative"
+}
